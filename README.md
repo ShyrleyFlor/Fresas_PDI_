@@ -1,3 +1,2 @@
 # Fresas_PDI_
-Es una practica de procesamiento de imagenes, hacemos una segmentacion, son dos segmentacion que se hicieron de forma distinta 
-podemos visualizar el resultado en ambos casos y evaluar por nosotros mismos cual sería mas eficiente dependiendo de la situación
+Este proyecto se centra en el procesamiento de imágenes, específicamente en técnicas de segmentación. Implementamos y comparamos dos métodos de segmentación distintos. Los resultados de cada método pueden ser visualizados, lo que permite una evaluación comparativa para determinar qué enfoque es más eficiente según diferentes situaciones.
